@@ -2,8 +2,12 @@
     padding: 6px;
     text-align:center;
     display: flex;
-    justify-content: flex-end;
-    
-    
-    
+    justify-content: flex-end;    
+}
+
+#google {
+    text-align: center;
+    background-color: white;
+    padding-top: 220px;
+    padding-bottom: 50px;
 }
