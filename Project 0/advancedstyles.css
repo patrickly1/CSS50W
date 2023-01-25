@@ -44,6 +44,60 @@ div.lOTAE {
     vertical-align: middle;
 }
 
+div.otByu div.HoCfzc {
+    float: left;
+    
+    min-width: 167px;
+    min-height: 41px;
+    vertical-align: middle;
+    width: 50%;
+}
+
+div.otByu div.FAcADc {
+    float: left;
+    
+    min-width: 167px;
+    width: 16%;
+    height: 42px;
+    color: #222;
+    font-size: 13px;
+    line-height: 16px;
+    vertical-align: middle;
+}
+
+div.otByu div.jYcx0e {
+    float: left;
+    
+    min-width: 167px;
+    min-height: 41px;
+    vertical-align: middle;
+    width: 50%;
+}
+
+div.PLLUQc {
+    padding-right: 16px;
+}
+
+
+div.otByu div.cwqNnb {
+    float: left;
+    width: 32%;
+    min-width: 160px;
+    margin: 0 0 8px 1%;
+    color: #555;
+    font-size: 11px;
+    padding-left: 5px;
+    vertical-align: middle;
+    position: relative;
+}
+
+div.otByu div.cwqNnb span.BFlQMb {
+    color: #666;
+    font-family: monospace;
+    font-size: 11px;
+    white-space: pre;
+}
+
 .container {
     display: table;
     width: 100%
@@ -62,6 +116,17 @@ span {
   
 input {
     width: 70%;
+}
+
+.jfk-textinput {
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 13px;
+    height: 25px;
+    padding: 1px 8px;
 }
 
 .appbar {
