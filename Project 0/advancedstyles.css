@@ -1,8 +1,47 @@
+form {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+}
+
 #header {
     padding: 6px;
     text-align:center;
     display: flex;
     justify-content: flex-end;
+}
+
+
+div.otByu {
+    width: 100%;
+    clear: both;
+}
+
+div.otByu div.yIQOUb {
+    clear: both;
+}
+
+div.otByu div.I1Kbt, div.lFApYd {
+    float: left;
+    
+    min-width: 167px;
+    width: 16%;
+    font-size: 16px;
+    min-height: 42px;
+    font-weight: 500;
+    color: #333;
+    vertical-align: middle;
+}
+
+div.lOTAE {
+    height: 30px;
+    display: table-cell;
+    vertical-align: middle;
 }
 
 .container {
@@ -23,6 +62,16 @@ span {
   
 input {
     width: 70%;
+}
+
+.appbar {
+    color: #d93025;
+    font-size: 20px;
+    margin: 25px 35px;
+}
+
+.gy3Eif {
+    border-bottom: 1px solid #ebebeb;
 }
 
 #button {
