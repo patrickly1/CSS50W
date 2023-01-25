@@ -11,3 +11,17 @@
     padding-top: 220px;
     padding-bottom: 50px;
 }
+
+#textbox {
+    display: flex;
+    z-index: 3;
+    height: 38px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 638px;
+    width:  180px auto;
+    max-width: 584px;
+}
